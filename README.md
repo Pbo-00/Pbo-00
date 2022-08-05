@@ -1,7 +1,7 @@
-## Olá eu sou Fábio Augusto, apaixonado por programação
+## Olá eu sou Pablo Miguel, apaixonado por programação
 
 <div align="center">
-  <a href="https://github.com/fabioIA">
+  <a href="https://github.com/Pbo-00">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=fabioIA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioIA&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -21,8 +21,8 @@
 ##
  
 <div> 
-  <a href="https://www.instagram.com/eo_fabao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fabim.t34uhd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pbo_00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pablomiguel190106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabio-augusto-a88857244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/fabioIA/fabioIA/blob/output/github-contribution-grid-snake.svg)
